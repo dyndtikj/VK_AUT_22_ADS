@@ -12,8 +12,6 @@
 
  n, k ≤ 10000.
 */
-// time O(m * log k)
-// memory O(m + n)  ((2m + n))
 
 #include <iostream>
 #include <stdexcept>

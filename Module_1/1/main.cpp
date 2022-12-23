@@ -15,8 +15,6 @@
 
 #include <iostream>
 
-// time log(n)
-// memory O(1)
 uint CountSetEvenBits2(uint num) {
     size_t result = 0;
     // from 0 bit to last, while number > 0

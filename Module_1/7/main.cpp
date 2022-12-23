@@ -6,6 +6,7 @@
    Количество чисел не больше 10^6. Отсортировать массив методом MSD по битам (бинарный QuickSort).
 
  */
+
 #include <iostream>
 #include "cassert"
 
